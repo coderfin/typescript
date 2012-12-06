@@ -1,0 +1,2 @@
+﻿http://www.codebelt.com/typescript/installing-typescript-on-a-mac/
+http://www.codebelt.com/typescript/typescript-phpstorm-webstorm/
